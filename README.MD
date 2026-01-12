@@ -50,3 +50,11 @@ os => clear
 os => pwd
 os => ls
 ```
+
+
+
+## For Running 
+
+```
+python interpreter.py <filename>
+```
