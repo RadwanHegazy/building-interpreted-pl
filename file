@@ -1,0 +1,45 @@
+
+
+# This is a comment
+
+# Next comment
+
+# age = 10
+# salary = 100.5
+
+# name = "radwan1"
+# name2 = 'radwaa2'
+
+# lst[] = 1,2,3.4,'ali'
+
+# name = lst[3]
+
+
+# calculate = 1 2 +
+
+
+# # 4
+# result = calculate 1 +
+
+# product = 2 10 *
+
+# print => 'product'
+
+# input => val & "Enter some value : "
+
+# print => val "Testing" +
+
+# calc => 1+2*10/90+(10-1000)
+
+# os => 
+
+input => num1 & "Enter First Number : "
+input => num2 & "Enter Secend Number : "
+
+print => "Result_of_sum:"
+
+result = num1 num2 +
+
+print => result
+
+sada => asd
